@@ -17,4 +17,11 @@ ul li::marker{
 content:"";
 
 }
-
+.lista{
+display: inline-block;
+}
+.largura{
+    width: 180px;
+    float: left;
+    background-color: blueviolet;
+}
